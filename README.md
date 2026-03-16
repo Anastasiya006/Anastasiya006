@@ -1,21 +1,25 @@
 <div align="center">
 
-# hey, i'm anastasiya 👋
+# Hi, I'm Anastasiya 👋
 
 **2B Computer Engineering @ University of Waterloo**
 
-⚡ 5× Hackathon Winner · 🚀 seeking Fall 2026 internships
+🏆 5× Hackathon Winner • Seeking Fall 2026 Internships
 
-[![Portfolio](https://img.shields.io/badge/🌐_portfolio-anastasiyavolgina.com-ff69b4?style=flat)](https://anastasiyavolgina.com)
+![views](https://komarev.com/ghpvc/?username=Anastasiya006&label=views&color=2ea44f&style=flat)
+[![Portfolio](https://img.shields.io/badge/Portfolio-anastasiyavolgina.com-ff69b4?style=flat)](https://anastasiyavolgina.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anastasiya--volgina-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anastasiya-volgina/)
+[![Devpost](https://img.shields.io/badge/Devpost-anastasiya006-003E54?style=flat&logo=devpost&logoColor=white)](https://devpost.com/anastasiya006)
+[![Email](https://img.shields.io/badge/Email-avolgina@uwaterloo.ca-D14836?style=flat&logo=gmail&logoColor=white)](mailto:avolgina@uwaterloo.ca)
 
 </div>
 
 ---
 
-i'm a computer engineering student at **university of waterloo** interested in software, embedded systems, and hardware + software projects that actually *do something*.
-
-outside of engineering you'll probably find me 🏊 swimming, 🌱 taking care of my plants, or 👯 hanging out with friends.
+<div align="center">
+I'm a Computer Engineering student at the **University of Waterloo** interested in software, embedded systems, and everything in between. Outside of school, I enjoy swimming, hanging out with friends, and tending to my plants. 🪴
+</div>
+<br>
 
 <br>
 <p align="center">
