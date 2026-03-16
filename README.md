@@ -6,12 +6,12 @@
 
 🏆 5× Hackathon Winner • Seeking Fall 2026 Internships
 
-![Profile Views](https://komarev.com/ghpvc/?username=Anastasiya006&label=views&color=2ea44f&style=flat)
-[![Portfolio](https://img.shields.io/badge/Portfolio-anastasiyavolgina.com-ff69b4?style=flat)](https://anastasiyavolgina.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-anastasiya--volgina-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anastasiya-volgina/)
+![views](https://komarev.com/ghpvc/?username=Anastasiya006&label=views&color=2ea44f&style=flat)
+[![portfolio](https://img.shields.io/badge/Portfolio-anastasiyavolgina.com-ff69b4?style=flat)](https://anastasiyavolgina.com)
+[![linkedIn](https://img.shields.io/badge/LinkedIn-anastasiya--volgina-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anastasiya-volgina/)
 
-[![Devpost](https://img.shields.io/badge/Devpost-anastasiya006-003E54?style=flat&logo=devpost&logoColor=white)](https://devpost.com/anastasiya006)
-[![Email](https://img.shields.io/badge/Email-avolgina@uwaterloo.ca-D14836?style=flat&logo=gmail&logoColor=white)](mailto:avolgina@uwaterloo.ca)
+[![devpost](https://img.shields.io/badge/Devpost-anastasiya006-003E54?style=flat&logo=devpost&logoColor=white)](https://devpost.com/anastasiya006)
+[![email](https://img.shields.io/badge/Email-avolgina@uwaterloo.ca-D14836?style=flat&logo=gmail&logoColor=white)](mailto:avolgina@uwaterloo.ca)
 
 </div>
 
