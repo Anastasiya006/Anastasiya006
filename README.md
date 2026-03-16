@@ -18,7 +18,7 @@
 ---
 
 <div align="center">
-I'm a Computer Engineering student at the **University of Waterloo** interested in software, embedded systems, and everything in between. Outside of school, I enjoy swimming, hanging out with friends, and tending to my plants. 🪴
+I'm a Computer Engineering student at the University of Waterloo interested in software, embedded systems, and everything in between. Outside of school, I enjoy swimming, hanging out with friends, and tending to my plants. 🪴
 </div>
 <br>
 
