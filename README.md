@@ -4,7 +4,7 @@
 
 **2B Computer Engineering @ University of Waterloo**
 
-🏆 5× Hackathon Winner • Seeking Fall 2026 Internships
+🏆 5× Hackathon Winner • Seeking Summer 2027 Internships
 
 ![views](https://komarev.com/ghpvc/?username=Anastasiya006&label=views&color=2ea44f&style=flat)
 [![portfolio](https://img.shields.io/badge/Portfolio-anastasiyavolgina.com-ff69b4?style=flat)](https://anastasiyavolgina.com)
