@@ -2,7 +2,7 @@
 
 # Hi, I'm Anastasiya 👋
 
-**2B Computer Engineering @ University of Waterloo**
+**3A Computer Engineering @ University of Waterloo**
 
 🏆 5× Hackathon Winner • Seeking Summer 2027 Internships
 
