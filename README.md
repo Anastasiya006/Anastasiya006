@@ -2,7 +2,7 @@
 
 # Hi, I'm Anastasiya 👋
 
-**3A Computer Engineering @ University of Waterloo**
+**3A Computer Engineering @ University of Waterloo | SWE Intern @ Shopify**
 
 🏆 5× Hackathon Winner • Seeking Summer 2027 Internships
 
