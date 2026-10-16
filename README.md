@@ -8,9 +8,10 @@ prev @ food mamba (swe), kaidu.ai (embedded)
 
 building across software, hardware, and everything in between.
 
-selected work:
+recent work:
 - [tailhub](https://devpost.com/software/tailhub) — finalist @ github universe, 2× winner @ hack canada; privacy-first home security powered by tailscale
 - [fare play](https://devpost.com/software/fare-play) — winner @ mac-a-thon; solana-powered prediction market for TTC delays
+- [uwasic](https://github.com/UW-ASIC/TinyTracer) — developing a fixed-point CORDIC engine for a ray-tracing ASIC
 
 [portfolio](https://anastasiyavolgina.com) / [linkedin](https://www.linkedin.com/in/anastasiya-volgina/) / [devpost](https://devpost.com/anastasiya006) / [email](mailto:avolgina@uwaterloo.ca)
 
